@@ -1,0 +1,16 @@
+com\example\movies\dto\RatingDto.class
+com\example\movies\config\RestTemplateConfig.class
+com\example\movies\controller\MovieController.class
+com\example\movies\controller\RestExceptionHandler.class
+com\example\movies\dto\MovieSearchResponseDto.class
+com\example\movies\dto\MovieSummaryDto.class
+com\example\movies\MoviesBackendApplication.class
+com\example\movies\config\CorsConfig.class
+com\example\movies\service\OmdbClient$OmdbMovieSummary.class
+com\example\movies\service\OmdbClient.class
+com\example\movies\service\OmdbClient$OmdbRating.class
+com\example\movies\config\CorsConfig$1.class
+com\example\movies\service\OmdbClient$OmdbSearchResponse.class
+com\example\movies\service\MovieService.class
+com\example\movies\dto\MovieDetailDto.class
+com\example\movies\service\OmdbClient$OmdbMovieDetail.class
